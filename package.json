@@ -23,6 +23,8 @@
     "ionic-angular": "2.0.0-rc.4",
     "ionic-native": "2.2.11",
     "ionicons": "3.0.0",
+    "rxdb": "^1.5.7",
+    "rxdb-adapter-localstorage": "^1.0.0",
     "rxjs": "5.0.0-beta.12",
     "zone.js": "0.6.26"
   },
